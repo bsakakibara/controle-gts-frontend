@@ -1,0 +1,23 @@
+Entrada ... 
+PaginaInicial.jsx
+Primeiro acesso:
+usuário 
+Senha 4 dígitos
+
+ControleFinanceiro.jsx
+Entrada se dados 
+Recebidos ...
+Á receber ...
+
+Saída 
+Valores Fixos
+Inserir manualmente -**xx  
+Valores Variáveis
+Inserir manualmente -**xx   
+
+Parcelas / prestações - 
+inserir números de parcelas (/ por meses - quantidade / valor)
+
+Total gasto 
+Soma dos anteriores 
+
