@@ -1,12 +1,9 @@
-{
-    "version": 2,
-    "builds": [
+
+  {
+    "rewrites": [
       {
-        "src": "frontend/package.json",
-        "use": "@vercel/node"
+        "source": "/api/(.*)",
+        "destination": "https://controle-gts.onrender.com/api/$1"
       }
-    ],
-    "env": {
-        "VITE_API_URL": "https://controle-gts-frontend.vercel.app"
-    }
+    ]
   }
