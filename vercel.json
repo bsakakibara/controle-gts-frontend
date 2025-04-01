@@ -7,6 +7,6 @@
       }
     ],
     "env": {
-      "VITE_API_URL": "https://controle-gts.onrender.com"
+        "VITE_API_URL": "https://controle-gts-frontend.vercel.app"
     }
   }
