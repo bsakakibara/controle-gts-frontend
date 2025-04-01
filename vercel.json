@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "frontend/package.json",
+        "use": "@vercel/node"
+      }
+    ],
+    "env": {
+      "VITE_API_URL": "https://controle-gts.onrender.com"
+    }
+  }
